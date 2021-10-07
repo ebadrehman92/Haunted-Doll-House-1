@@ -15,6 +15,8 @@
 This project is a forum that allows users to post about the most cursed artifacts on the internet as well as allow them to search for specific ones as well. 
 In addition, users can create accounts so they can up comment on posts, up vote posts, and down vote posts.
 
+<img width="1411" alt="dollHouse" src="https://user-images.githubusercontent.com/64440230/136472556-8a146268-45f8-4be1-95d1-9cb6107120ee.png">
+
 ## User Story: 
 As a person who is really into cursed artifacts, I want to know where I can find information about as many cursed artifacts as possible. 
 
